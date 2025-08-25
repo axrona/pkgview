@@ -22,7 +22,7 @@ yay -S pkgview
 ### Manual installation
 
 ```bash
-git clone https://github.com/xeyossr/pkgview.git
+git clone https://github.com/axrona/pkgview.git
 cd pkgview
 make install
 ```

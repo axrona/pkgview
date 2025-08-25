@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	utils "github.com/xeyossr/pkgview/internal"
+	utils "github.com/axrona/pkgview/internal"
 )
 
 // Run parses CLI arguments and dispatches the corresponding actions.

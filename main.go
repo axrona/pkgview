@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/xeyossr/pkgview/internal/cmd"
+	"github.com/axrona/pkgview/internal/cmd"
 )
 
 // main is the entry point of the application.
